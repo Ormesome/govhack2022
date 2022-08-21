@@ -1,0 +1,47 @@
+@startmindmap
+title: Mind Map
+
+<style>
+mindmapDiagram {
+  .green {
+    BackgroundColor lightgreen
+  }
+  .rose {
+    BackgroundColor #FFBBCC
+  }
+  .blue {
+    BackgroundColor lightblue
+  }
+}
+</style>
+
+* <b>Business Barometer</b>
+** <&globe> Environmental <<green>>
+*** Sewerage Rating <<green>>
+****_ IOT (QLD Water)
+*** Gas Rating <<green>>
+****_ IOT (AEMO)
+*** Electricity Rating <<green>>
+****_ IOT (AEMO)
+*** Water Rating <<green>>
+****_ Open Data Portal (Unitywater)
+*** Air Quality Rating <<green>>
+****_ Open Data Portal (BOM)
+
+left side
+
+** <&graph> Financial <<blue>>
+*** Financial benchmarks <<blue>>
+****_ ATO
+** <&people> Social <<rose>>
+*** Customer Score <<rose>>
+****_ Bing
+****_ Facebook
+****_ Foursquare
+****_ Google
+****_ Yelp
+*** Employee Score <<rose>>
+****_ Indeed
+****_ Glassdoor
+****_ Seek
+@endmindmap
